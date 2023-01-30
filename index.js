@@ -23,5 +23,5 @@ function updateRating(index) {
         emojisEl.getElementsByClassName.transform = `translateX(-${index * 50}px)`;
         emojisEl.style.color= colorsArray[index]
     })
-    
+//         coding by Nazir
 }
